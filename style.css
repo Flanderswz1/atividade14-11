@@ -1,0 +1,21 @@
+body { 
+    background-color: rgb(7, 162, 2);
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+ .p1 {
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+ .p2 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
